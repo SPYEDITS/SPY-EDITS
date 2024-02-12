@@ -7,17 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const loadingScreen = document.getElementById('loading-screen');
     const sidebarToggle = document.getElementById("sidebar-toggle");
 
-    // Function to open sidebar
-    function openSidebar() {
-        document.getElementById("sidebar").style.width = "250px";
-        document.getElementById("content").style.marginLeft = "250px";
-    }
-
-    // Function to close sidebar
-    function closeSidebar() {
-        document.getElementById("sidebar").style.width = "0";
-        document.getElementById("content").style.marginLeft = "0";
-    }
+   
 
     // Function to toggle sidebar (open/close)
     function toggleSidebar() {
@@ -37,13 +27,18 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Event listener for changing header background on scroll
     document.addEventListener('scroll', () => {
+        if (window.matchMedia('(min-width: 768px)').matches) {  
         var scroll_position = window.scrollY;
         if (scroll_position > 250) {
             header.style.backgroundColor = '#29323c';
         } else {
             header.style.backgroundColor = 'transparent';
         }
-    });
+}
+else{
+    header.style.backgroundColor = '#29323c';
+}
+});
 
     // Event listeners for menu items to close the mobile menu
     menu_item.forEach((item) => {
