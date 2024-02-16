@@ -2,27 +2,27 @@
     "projects": [
       {
         "src": "/Projects/auto1.mp4",
-        "poster": "https://i.postimg.cc/4NLshHfR/425645662-2585821988258497-6807998278594693380-n.jpg"
+        "poster": "/Projects/auto1.mp4"
         
       },
       {
         "src": "/Projects/auto2.mp4",
-        "poster": "https://i.postimg.cc/4NLshHfR/425645662-2585821988258497-6807998278594693380-n.jpg"
+        "poster": "/Projects/auto1.mp4"
         
       },
       {
         "src": "/Projects/auto3.mp4",
-        "poster": "https://i.postimg.cc/4NLshHfR/425645662-2585821988258497-6807998278594693380-n.jpg"
+        "poster": "/Projects/auto1.mp4"
         
       },
       {
         "src": "/Projects/auto4.mp4",
-        "poster": "https://i.postimg.cc/4NLshHfR/425645662-2585821988258497-6807998278594693380-n.jpg"
+        "poster": "/Projects/auto1.mp4"
         
       },
       {
         "src": "/Projects/auto5.mp4",
-        "poster": "https://i.postimg.cc/4NLshHfR/425645662-2585821988258497-6807998278594693380-n.jpg"
+        "poster": "/Projects/auto1.mp4"
         
       }
     ]
