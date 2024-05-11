@@ -74,7 +74,7 @@
       ,
       {
         "name": "Client 10",
-        "url": "https://yt3.googleusercontent.com/4u_LPv8ICJ0srvDUNCi16cKl6xozF3N4uZPuRYiqJ1sKoICncVET5338qdgiQ3gfvRR_pXlIAg=s176-c-k-c0x00ffffff-no-rj",
+        "url": "https://yt3.googleusercontent.com/vj0ocXBeXiXlkq2IuzatVt8ttmwoBFSxTT7CeUGgS54sp4mBUbWy8t47KQi_cz3VxPO7PXydAg=s160-c-k-c0x00ffffff-no-rj",
         "href": "https://www.youtube.com/@Just_M7MD"
       }
       ,
@@ -89,6 +89,23 @@
         "url": "https://yt3.googleusercontent.com/ZWLfdvccAGS1erim5FH6zwQZTc0qn5vkwAwdb0zw2ScBTv04U2arRwX1LUayWQO3Nh4gfhZWMQ=s176-c-k-c0x00ffffff-no-rj",
         "href": "https://www.youtube.com/@bosalem9"
       }
-      
-    ]
+      ,
+      {
+        "name": "Client 13",
+        "url": "https://cdn.discordapp.com/attachments/1129692986561794048/1237000534381170728/channels4_profile.jpg?ex=663ffcc5&is=663eab45&hm=f900562eacc0e02ebf00252aed44425c8d62fb189d56789428a29151270a238a&",
+        "href": "https://www.youtube.com/@HamadSenpai"
+      }
+      ,
+      {
+        "name": "Client 14",
+        "url": "https://cdn.discordapp.com/attachments/1129692986561794048/1237000854121353236/Group_3_copy.png?ex=663ffd11&is=663eab91&hm=cc503f4c770d77f5c0122b3a179d833e17b3d6472fc487b74e246f00d4c533c6&",
+        "href": "https://www.youtube.com/channel/UCtW2d3X9WYslXEBT3Lyx6fA"
+      }
+    ,
+      {
+        "name": "Client 15",
+        "url": "https://cdn.discordapp.com/attachments/1129692986561794048/1237001380732866671/high-1714994495.jpg?ex=663ffd8f&is=663eac0f&hm=59dfb856f8d7f932220946b950ffd487a3e8e8816d4f38eb5d1078facd4933fc&",
+        "href": "https://www.youtube.com/@hesham_HSH"
+      }
+    ]      
   }
